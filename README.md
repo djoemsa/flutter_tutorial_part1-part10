@@ -1,6 +1,9 @@
 # flutter_first_to_tenth
 
-A new Flutter project.
+Ada 2 route.
+Route pertama sudah memiliki fitur dari video tutorial 1 sampai 9.
+Route kedua memiliki fitur dari video tutorial ke 10.
+dipisah karena takut berat apabila harus sering me rebuild tampilan.
 
 ## Getting Started
 
